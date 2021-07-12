@@ -1,0 +1,22 @@
+{
+	"projectName": "shop",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "shop CSS",
+		"file": "shop.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/"
+		}]
+	}, {
+		"name": "shop JS",
+		"file": "shop.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "js/"
+		}]
+	}],
+	"resources" : []
+}
